@@ -1,4 +1,4 @@
-# Object Detection Auto-Annotation for Crowd Analysis
+# Object Detection Auto-Annotation
 
 An automated annotation tool that uses YOLOv8 to detect and annotate people in images, generating YOLO-format labels for crowd detection datasets.
 
